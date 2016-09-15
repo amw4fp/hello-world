@@ -1,2 +1,6 @@
 # hello-world
-musings and noodlings
+
+Greeting peoples!
+
+There is nothing of great importance here. 
+Move along.
